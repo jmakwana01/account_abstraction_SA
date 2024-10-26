@@ -37,5 +37,3 @@ This setup provides the foundation for experimenting with account abstraction, e
 ## License
 This project is licensed under the MIT License.
 ```
-
-This should serve as a complete README to guide users through setup, deployment, and testing with Foundry. Let me know if there’s anything specific you’d like to add!
